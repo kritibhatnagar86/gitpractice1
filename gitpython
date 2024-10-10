@@ -1,0 +1,6 @@
+v1=[1,2,3]
+v2=[2,3,4]
+sum=0
+for i in range (3):
+    sum+=v1[i]*v2[i]
+print(sum)
